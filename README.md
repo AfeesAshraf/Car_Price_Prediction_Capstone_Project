@@ -17,7 +17,7 @@ Report the following metrics using ‘final_model’ on the test data:
 2. MAE
 3. R2-score
 # Report the importance of different features.
-# Prepare a brief report documenting the key steps involved along with the reasoning behind different decisions that you made in these steps.
+Prepare a brief report documenting the key steps involved along with the reasoning behind different decisions that you made in these steps.
 Notes
 Write textual comments in your code wherever appropriate.
 Note: As a data scientist, you might need to make several decisions while exploring the data.
