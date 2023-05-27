@@ -1,5 +1,5 @@
 The Repository contain 2 capstone Projects completed as part of Guvi Data Science course.
-#Contents:
+*Contents*:
 Projects:
 1. Car Price Prediction
 2. Car class Project
