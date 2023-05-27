@@ -13,4 +13,4 @@ B. The assosciated CSV data files are uploaded in this repository.
 C. Two PDF Files detailing the questions can also be found with repository. 
 
 
-D. The Project report are also uploaded
+D. The Project reports are also uploaded
